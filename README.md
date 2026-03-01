@@ -53,11 +53,3 @@ These are core skills for structured data management and backend fundamentals.
 📸 Visual Evidence
 
 The file SQLOutputScreenshot.docx shows visual output from your database queries — useful for assessment or learning review.
-
-
-
-SQL‑Database‑Design‑Assignment
-or
-Relational‑Data‑Model‑SQL‑Project
-
-A clearer name helps others immediately understand the purpose.
