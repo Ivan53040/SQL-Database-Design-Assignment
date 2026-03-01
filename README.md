@@ -13,13 +13,13 @@ File	Description
 - SQLfile1.sql	SQL script with database definitions and operations
 
 - SQLfile2.sql	Additional SQL commands or schema
-- 
+
 - SQLfile3.sql	Extended SQL script (e.g., more queries or enhancements)
-- 
+  
 - a2-2025-moviesdb.sql	Dedicated SQL script for a movies database
-- 
+  
 - a2-2025-v1.pdf	Assignment document explaining design decisions and queries
-- 
+  
 - SQLOutputScreenshot.docx	Screenshot(s) showing query results or database output
 
 These components demonstrate your understanding of database creation, data manipulation and working with SQL engines.
